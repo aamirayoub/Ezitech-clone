@@ -51,7 +51,7 @@
 .default_header_bar{
     width: 100vw;
     height: 100vh;
-    background-image: url("/hero.bmp.png");
+    background-image: url("hero.bmp.png");
     background-position: 100%;
     text-align: center;
     font-size: x-large;
