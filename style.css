@@ -205,13 +205,13 @@ input, text{
     
 }
 .svg1{
-    background-image: url("/svg/svg1.png");
+    background-image: url("svg1.png");
 }
 .svg2{
-    background-image: url("/svg/svg2.png");
+    background-image: url("svg2.png");
 }
 .svg3{
-    background-image: url("/svg/svg3.png");
+    background-image: url("svg3.png");
 }
 
 
@@ -253,41 +253,41 @@ input, text{
     
 }
 .c1{
-    background-image: url("/svg/c1.png");
+    background-image: url("c1.png");
 }
 .c2{
-    background-image: url("/svg/c2.png");
+    background-image: url("c2.png");
 }
 .c3{
-    background-image: url("/svg/amazon.svg");
+    background-image: url("amazon.svg");
 }
 .c4{
-    background-image: url("/svg/cyber.svg");
+    background-image: url("cyber.svg");
 }
 .c5{
-    background-image: url("/svg/c5.png");
+    background-image: url("c5.png");
 }
 .c6{
-    background-image: url("/svg/c6.png");
+    background-image: url("c6.png");
 }
 .c7{
-    background-image: url("/svg/c7.png");
+    background-image: url("c7.png");
 }
 .c8{
-    background-image: url("/svg/c8.png");
+    background-image: url("c8.png");
 }
 .c9{
-    background-image: url("/svg/ios.svg");
+    background-image: url("ios.svg");
 
 }
 .c10{
-    background-image: url("/svg/c10.png");
+    background-image: url("c10.png");
 }
 .c11{
-    background-image: url("/svg/c11.png");
+    background-image: url("c11.png");
 }
 .c12{
-    background-image: url("/svg/c12.gif");
+    background-image: url("c12.gif");
 }
 
 /* Offers */
@@ -360,28 +360,28 @@ hr{
 .img1{
     width: 15%;
     height: 50%;
-    background-image: url("/svg/js2.png");
+    background-image: url("js2.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
 .img2{
     width: 15%;
     height: 50%;
-    background-image: url("/svg/react.png");
+    background-image: url("react.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
 .img3{
     width: 15%;
     height: 50%;
-    background-image: url("/svg/fiver.png");
+    background-image: url("fiver.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
 .img4{
     width: 15%;
     height: 50%;
-    background-image: url("/svg/node.png");
+    background-image: url("node.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
@@ -389,21 +389,21 @@ hr{
 .img5{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/gbussiness.svg");
+    background-image: url("gbussiness.svg");
     background-size: 50px;
     background-repeat: no-repeat;
 }
 .img6{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/sds.png");
+    background-image: url("sds.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
 .img7{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/seo.png");
+    background-image: url("seo.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
@@ -412,7 +412,7 @@ hr{
 .img8{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/digital.jpg");
+    background-image: url("digital.jpg");
     background-size: 50px;
     background-repeat: no-repeat;
 }
@@ -420,7 +420,7 @@ hr{
 .img9{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/in.png");
+    background-image: url("in.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
@@ -428,7 +428,7 @@ hr{
 .img10{
     width: 15%;
     height: 70%;
-    background-image: url("/svg/writer.png");
+    background-image: url("writer.png");
     background-size: 50px;
     background-repeat: no-repeat;
 }
@@ -571,7 +571,7 @@ h5{
 .phone{
     width: 100vh;
     height: 100vh;
-    background-image: url("/svg/phone.webp");
+    background-image: url("phone.webp");
     background-repeat: no-repeat;
 
 }
@@ -620,7 +620,7 @@ span{
 .apple{
     width: 12vw;
     height: 22vh;
-    background-image: url("/svg/apple.svg");
+    background-image: url("apple.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -628,7 +628,7 @@ span{
 .playstore{
     width: 12vw;
     height: 22vh;
-    background-image: url("/svg/play.svg");
+    background-image: url("play.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -718,14 +718,14 @@ span{
 .arb_img{
     width: 50px;
     height: 50px;
-    background-image: url("/svg/graph.svg");
+    background-image: url("graph.svg");
     background-repeat: no-repeat;
     background-size: cover;
     
 }
 
 .boot_img{
-    background-image: url("/svg/node.png");
+    background-image: url("node.png");
     width: 50px;
     height: 50px;
     background-repeat: no-repeat;
